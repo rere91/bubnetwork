@@ -1,0 +1,23 @@
+{
+  "name": "bubnetwork",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bubteam/bubnetwork",
+  "authors": [
+    "cafeine05 <joubert.leo@gmail.com>"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "network"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0",
+    "paper-dialog-behavior": "PolymerElements/paper-dialog-behavior#1.0.0",
+    "paper-fab": "PolymerElements/paper-fab#1.0.0",
+    "paper-input": "PolymerElements/paper-input#1.0.0",
+    "paper-material": "PolymerElements/paper-material#1.0.0",
+    "paper-scroll-header-panel": "PolymerElements/paper-scroll-header-panel#1.0.0"
+  }
+}
